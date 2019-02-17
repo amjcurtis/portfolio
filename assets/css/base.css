@@ -1,5 +1,9 @@
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+/* @import url("https://fonts.googleapis.com/css?family=PT+Sans:300,300italic"); */
+/* @import url('https://fonts.googleapis.com/css?family=Abel|PT+Sans'); */
+/* @import url('https://fonts.googleapis.com/css?family=Abel|Maven+Pro|PT+Sans'); */
+@import url('https://fonts.googleapis.com/css?family=Abel|Maven+Pro|PT+Sans|Padauk');
+/* @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600"); */
 
 /*
 	Prologue by HTML5 UP
@@ -21,7 +25,11 @@ html {
 
 body {
     background: #fff;
-    font-family: 'Source Sans Pro', sans-serif;
+    /* font-family: 'PT Sans', sans-serif; */
+    /* font-family: 'Abel', sans-serif; */
+    /* font-family: 'Maven Pro', sans-serif; */
+    font-family: 'Padauk', sans-serif;
+    /* font-family: 'Source Sans Pro', sans-serif; */
     font-size: 19pt;
     font-weight: 300;
     line-height: 1.75em;
